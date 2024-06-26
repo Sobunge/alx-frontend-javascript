@@ -4,8 +4,10 @@
   "description": "Leaarning promises",
   "main": "0-main.js",
   "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Samuel Obunge",
   "license": "ISC"
 }
