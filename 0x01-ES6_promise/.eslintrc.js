@@ -27,6 +27,7 @@ module.exports = {
     'no-debugger': 'warn',
     'react/prop-types': 'off',
     'react/react-in-jsx-scope': 'off',
+    '@typescript-eslint/no-unnecessary-boolean-literal-compare': 'off',
     'quotes': ['error', 'single'],
     'semi': ['error', 'always']
   }
